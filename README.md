@@ -1,60 +1,112 @@
-Sales and KPI Dashboard
-Key Features of the Dashboard
+# 💼 Sales & KPI Dashboard (Power BI)
 
-Data Integration – Connected to multiple data sources for consolidated sales reporting.
+## 📌 About the Project
 
-Data Cleaning & Transformation – Prepared raw sales data to ensure accuracy and consistency.
+This project is a Power BI-based Sales & KPI analytics dashboard designed to monitor revenue, profit, and business performance through interactive visualizations and DAX-driven metrics. It consolidates multiple data sources to deliver real-time insights for sales tracking, regional analysis, and strategic decision-making.
 
-DAX Calculations – Created calculated measures (e.g., Revenue, Profit, Order Count, Profit Margin).
+---
 
-KPI Cards – Displayed high-level business metrics such as Revenue, Profit, and Orders.
+## 🚀 Project Overview
 
-Visualizations – Built interactive bar charts, line charts, and trend graphs for performance tracking.
+This dashboard provides an end-to-end view of business performance by transforming raw sales data into actionable insights. It enables stakeholders to track KPIs, analyze trends, and evaluate profitability across regions, products, and customer segments.
 
-Filters & Slicers – Enabled drill-down by region, product category, and time period.
+---
 
-Timelines – Added time-based filters for monthly, quarterly, and yearly analysis.
+## 🛠️ Key Features
 
-Cross-Filtering – Interactive visuals update dynamically based on user selections.
+### 🔗 Data Integration
+- Connected multiple data sources into a unified data model for consolidated reporting
 
-Regional & Product Analysis – Compared sales, profit, and orders across locations and product categories.
+### 🧹 Data Cleaning & Transformation
+- Cleaned and structured raw sales data for accuracy and consistency
 
-Customer Insights – Tracked purchasing patterns and trends to support customer behavior analysis.
+### 🧮 DAX Calculations
+- Developed key measures including Revenue, Profit, Order Count, and Profit Margin
 
-Insights from the Dashboard
+### 📊 KPI Cards
+- Displayed executive-level KPIs such as Total Revenue, Total Profit, and Orders
 
-Revenue & Profit Trends – Identified peak sales months and seasonal demand fluctuations.
+### 📈 Interactive Visualizations
+- Built bar charts, line charts, and trend analysis visuals for performance tracking
 
-Top-Performing Products – Highlighted products/categories generating the highest revenue and profit margins.
+### 🎛️ Filters & Slicers
+- Enabled drill-down analysis by region, product category, and time period
 
-Low-Margin Areas – Detected items with high sales volume but low profitability due to discounts.
+### 🔄 Cross Filtering
+- Dynamic visuals that update based on user selection
 
-Regional Performance – Showed which regions consistently outperform others in revenue and order volume.
+### 🌍 Regional & Product Analysis
+- Compared performance across regions and product categories
 
-Customer Behavior – Revealed repeat purchase trends and which customer segments drive the most sales.
+### 👥 Customer Insights
+- Analyzed customer purchasing behavior and repeat purchase patterns
 
-Order Patterns – Tracked order frequency over time to support demand forecasting and inventory planning.
+---
 
-Impact of Discounts – Analyzed how discounts affect sales growth vs. profit erosion.
+## 📌 Key Insights
 
-Business Impact
+### 📊 Revenue & Profit Trends
+- Identified seasonal peaks and fluctuations in sales performance
 
-Reduced reporting time by automating sales performance tracking, eliminating manual Excel-based reports.
+### 🏆 Top Performing Products
+- Highlighted high-revenue and high-margin product categories
 
-Improved decision-making by providing real-time visibility into revenue, profit, and order trends across regions and products.
+### ⚠️ Low Margin Areas
+- Detected products with high sales but low profitability due to discounts
 
-Enhanced profitability tracking with DAX-based measures (e.g., Profit Margin, Discount Impact) to identify high- and low-margin products.
+### 🌍 Regional Performance
+- Identified strongest and weakest performing regions
 
-Enabled targeted strategies by uncovering customer behavior patterns and regional performance differences.
+### 👤 Customer Behavior
+- Discovered repeat purchase trends and high-value customer segments
 
-Optimized resource allocation by highlighting underperforming regions/products that require marketing or operational focus.
+### 📦 Order Trends
+- Analyzed order frequency for forecasting and planning
 
-Supported forecasting & planning through time-series analysis of sales and order trends.
+### 💸 Discount Impact
+- Evaluated impact of discounting on revenue vs profitability
 
-Screenshot:
+### 📉 Growth Opportunities
+- Identified underperforming regions and products requiring improvement
 
-<img width="940" height="547" alt="image" src="https://github.com/user-attachments/assets/659cf40a-70e8-4103-b4a9-f9816d005972" />
+---
+
+## 💡 Business Impact
+
+- Reduced manual reporting effort by automating sales tracking in Power BI  
+- Improved decision-making through real-time KPI visibility  
+- Enhanced profitability analysis using advanced DAX measures  
+- Enabled targeted business strategies using customer and regional insights  
+- Improved forecasting through trend and time-series analysis  
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Power BI Dashboard Development  
+- Data Modeling & Transformation  
+- DAX (Data Analysis Expressions)  
+- KPI Design & Business Storytelling  
+- Sales & Revenue Analytics  
+- Interactive Data Visualization  
+
+---
+
+## 📷 Dashboard Preview
+
+<img width="1000" height="650" alt="image" src="https://github.com/user-attachments/assets/659cf40a-70e8-4103-b4a9-f9816d005972" />
+
+---
+
+## 📁 Project Summary
+
+This project demonstrates enterprise-level business intelligence capabilities by combining data modeling, visualization, and analytical thinking to solve real-world sales performance challenges.
 
 
 
-Growth Opportunities – Flagged underperforming regions/products that need focused marketing or resource allocation.
+
+
+
+
+
+
